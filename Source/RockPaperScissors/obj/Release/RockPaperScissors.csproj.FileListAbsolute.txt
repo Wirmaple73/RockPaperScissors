@@ -1,0 +1,14 @@
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\MainWindow.baml
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\Window1.baml
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\MainWindow.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\Window1.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\App.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors_MarkupCompile.cache
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.g.resources
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.exe
+C:\Users\user\documents\visual studio 2013\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.pdb
